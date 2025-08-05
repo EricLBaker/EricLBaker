@@ -2,10 +2,10 @@
 <div align="center">
   <a href="https://github.com/EricLBaker/resume/blob/master/EricBaker_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-8E24AA?style=flat-square&logo=read-the-docs&logoColor=white" alt="Resume">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/EricLouisBaker">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/EricLBaker">
     <img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
